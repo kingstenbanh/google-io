@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Google I/O</string>
+
+    <string name="expanded" translation_description="The label used on a button when a view is in an expanded state.">Expanded</string>
+    <string name="collapsed" translation_description="The label used on a button when a view is in an collapsed state.">Collapsed</string>
+
+    <string name="travel_directions_title" translation_description="Header label for driving directions details.">Driving Directions</string>
+    <string name="travel_shuttle_title" translation_description="Header label for shuttle service details.">Shuttle Service (Recommended)</string>
+
+    <string name="travel_directions_description" translation_description="Instructions on how to find directions to the conference.">Find directions on <a href="https://www.google.com/maps/place/Shoreline+Amphitheatre/@37.4267374,-122.0827818,17z/data=!3m1!4b1!4m5!3m4!1s0x808fb9f776f5e165:0x1ddf014a1b553f3d!8m2!3d37.4267374!4d-122.0805931">Google Maps</a> or <a href="https://mobile-web.waze.com/en/meetup/location?h=9q9hvvru0">Waze</a> to 1 Amphitheatre Pkwy, Mountain View, CA 94043</string>
+</resources>
